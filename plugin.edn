@@ -1,5 +1,5 @@
 {:name "Niflheim theme"
- :version "0.0.1"
+ :version "1.0.0"
  :author "Benjamin Van Ryseghem"
  :source "https://github.com/niflheim-theme/lighttable"
  :desc "Dark theme with nice contrast for hours of fun coding with hurting your little eyes"
