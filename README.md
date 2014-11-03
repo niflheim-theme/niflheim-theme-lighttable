@@ -4,6 +4,7 @@ A dark theme for LightTable.
 
 ## Scrennshot
 
+![Screenshot](screenshot.png)
 
 ## License
 
